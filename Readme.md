@@ -25,4 +25,6 @@ dass die verschiedenen Methoden des `GraphicsObject` die x- und
 y-Koordinaten beeinflussen und Sie die Eckpunkte Ihrer Form regelmäßig
 (z.B. vor jedem Zeichnen) neu berechnen müssen.
 
-![](docs/screenshot_shapes.png)
+| Diese neuen Formen sollen Sie ergänzen |
+|:------:|
+| ![Neue Shapes](./docs/screenshot_shapes.png) |
