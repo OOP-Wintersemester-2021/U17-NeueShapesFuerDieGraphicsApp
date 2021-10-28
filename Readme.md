@@ -1,4 +1,4 @@
-# U17 | Neue Shapes für die GraphicsApp
+# U20 | Neue Shapes für die GraphicsApp
 
 Erweitern Sie die Funktionalität der `GraphicsApp` um zwei neue Formen:
 Ein gleichschenkliges Dreieck (`Triangle`) sowie ein
